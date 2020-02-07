@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+table{
+    /* width: 100%; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tbody{
+    border: 4px solid black;
+    /* width: 100%; */
+}
+
+td{
+    width: 150px;
+    height: 500px;
+    border: 10px solid white;
+}
+
+#first{
+    background-color: #ED6A5A;
+}
+
+#second{
+    background-color: #F4F1BB;
+}
+
+#third{
+    background-color: #9BC1BC;
+}
+
+#fourth{
+    background-color: #5CA4A9;
+}
+
+#fith{
+    background-color: #E6EBE0;
+}
